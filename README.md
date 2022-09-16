@@ -1,4 +1,4 @@
-# Ejemplo Parcial Práctico 1
+# Sofia Velasquez Marin
 
 ## Instrucciones
 
